@@ -1,2 +1,2 @@
 # Facebook-Frontend-Clone
-HTML, CSS
+HTML, CSS, JavaScript
